@@ -1,51 +1,46 @@
 {
   "pages": {
-    "/layout": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/layout.css",
-      "static/chunks/app/layout.js"
-    ],
     "/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/css/app/page.css",
       "static/chunks/app/page.js"
     ],
+    "/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/layout.css",
+      "static/chunks/app/layout.js"
+    ],
     "/var/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/var/page.js"
-    ],
-    "/console/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/console/page.js"
-    ],
-    "/operatoren/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/operatoren/page.js"
     ],
     "/logische-operatoren/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/logische-operatoren/page.js"
     ],
+    "/operatoren/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/operatoren/page.js"
+    ],
     "/booleans/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/booleans/page.js"
     ],
-    "/isnan/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/isnan/page.js"
-    ],
     "/blockscope/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/blockscope/page.js"
+    ],
+    "/isnan/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/isnan/page.js"
     ],
     "/string-methoden/page": [
       "static/chunks/webpack.js",
@@ -67,40 +62,45 @@
       "static/chunks/main-app.js",
       "static/chunks/app/array-methoden/page.js"
     ],
-    "/for-loop/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/for-loop/page.js"
-    ],
     "/array-basics/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/array-basics/page.js"
     ],
-    "/this/page": [
+    "/for-loop/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/this/page.js"
+      "static/chunks/app/for-loop/page.js"
     ],
     "/switch/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/switch/page.js"
     ],
+    "/this/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/this/page.js"
+    ],
     "/objectscope/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/objectscope/page.js"
+    ],
+    "/funktionen-basics/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/funktionen-basics/page.js"
     ],
     "/funktionen/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/funktionen/page.js"
     ],
-    "/funktionen-basics/page": [
+    "/console/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/funktionen-basics/page.js"
+      "static/chunks/app/console/page.js"
     ],
     "/funktionen-parameter/page": [
       "static/chunks/webpack.js",

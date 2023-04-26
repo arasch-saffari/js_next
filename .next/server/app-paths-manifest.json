@@ -1,7 +1,4 @@
 {
-  "/funktionen/page": "app/funktionen/page.js",
-  "/switch/page": "app/switch/page.js",
-  "/for-loop/page": "app/for-loop/page.js",
-  "/favicon.ico/route": "app/favicon.ico/route.js",
-  "/funktionen-return/page": "app/funktionen-return/page.js"
+  "/array-methoden/page": "app/array-methoden/page.js",
+  "/funktionen-basics/page": "app/funktionen-basics/page.js"
 }
