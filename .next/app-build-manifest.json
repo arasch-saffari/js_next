@@ -12,15 +12,15 @@
       "static/css/app/layout.css",
       "static/chunks/app/layout.js"
     ],
+    "/console/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/console/page.js"
+    ],
     "/var/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/var/page.js"
-    ],
-    "/logische-operatoren/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/logische-operatoren/page.js"
     ],
     "/operatoren/page": [
       "static/chunks/webpack.js",
@@ -31,6 +31,11 @@
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/booleans/page.js"
+    ],
+    "/logische-operatoren/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/logische-operatoren/page.js"
     ],
     "/blockscope/page": [
       "static/chunks/webpack.js",
@@ -52,6 +57,11 @@
       "static/chunks/main-app.js",
       "static/chunks/app/if/page.js"
     ],
+    "/array-basics/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/array-basics/page.js"
+    ],
     "/ternary-operator/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
@@ -61,11 +71,6 @@
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/array-methoden/page.js"
-    ],
-    "/array-basics/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/array-basics/page.js"
     ],
     "/for-loop/page": [
       "static/chunks/webpack.js",
@@ -87,20 +92,15 @@
       "static/chunks/main-app.js",
       "static/chunks/app/objectscope/page.js"
     ],
-    "/funktionen-basics/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/funktionen-basics/page.js"
-    ],
     "/funktionen/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/funktionen/page.js"
     ],
-    "/console/page": [
+    "/funktionen-basics/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/console/page.js"
+      "static/chunks/app/funktionen-basics/page.js"
     ],
     "/funktionen-parameter/page": [
       "static/chunks/webpack.js",
