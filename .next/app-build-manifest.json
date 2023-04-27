@@ -1,26 +1,26 @@
 {
   "pages": {
-    "/layout": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/layout.css",
-      "static/chunks/app/layout.js"
-    ],
     "/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/css/app/page.css",
       "static/chunks/app/page.js"
     ],
-    "/console/page": [
+    "/layout": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/console/page.js"
+      "static/css/app/layout.css",
+      "static/chunks/app/layout.js"
     ],
     "/var/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/var/page.js"
+    ],
+    "/console/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/console/page.js"
     ],
     "/logische-operatoren/page": [
       "static/chunks/webpack.js",
@@ -112,15 +112,15 @@
       "static/chunks/main-app.js",
       "static/chunks/app/funktionen-scope/page.js"
     ],
-    "/funktionen-return/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/funktionen-return/page.js"
-    ],
     "/funktionen-deklarieren/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/funktionen-deklarieren/page.js"
+    ],
+    "/funktionen-return/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/funktionen-return/page.js"
     ]
   }
 }
